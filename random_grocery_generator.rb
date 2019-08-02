@@ -60,7 +60,7 @@ def apply_clearance(cart)
       0.8).round(2) 
     end 
   end 
-cart 
+ 
 end
 
 def checkout(cart, coupons) 
